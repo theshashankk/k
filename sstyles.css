@@ -12,7 +12,7 @@ html,body
     height: 100%;
     width: 100%;
     place-items: center;
-    background: url(images/background.jpg);
+    background: url(http://telegra.ph//file/9038e109c246227eec18f.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -110,5 +110,5 @@ html,body
 {
     color: #000;
     border-color: #000;
-    background: #fff;
+    background: #000;
 }
