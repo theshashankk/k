@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+@import url(https://fonts.googleapis.com/css2?family=Devonshire&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #000000;
+  font-family: 'Devonshire', sans-serif;
+}
+
+.wrapper{
+  margin-top: 50px;
+}
+
+.wrapper shashank{
+  background: #ffffff;
+  font-family: 'Allura', cursive;
+  font-size: 52px;
+  margin-bottom: 60px;
+  text-align: center;
